@@ -34,4 +34,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: mariolowa/clockbox:v3
+          tags: mariolowa/githubaction:v3
